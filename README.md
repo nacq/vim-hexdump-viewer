@@ -18,4 +18,5 @@ call plug#end()
 ## Usage
 
 Call `:VHexdump` to get a vertical split with the hexdump.
+
 Call `:HHexdump` to get a horizonal split with the hexdump.
